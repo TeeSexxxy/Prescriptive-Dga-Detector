@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtualenv
+venv/
+.env/
+
+# Ignore Jupyter and OS clutter
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Ignore large binaries
+*.jar
+*.zip
